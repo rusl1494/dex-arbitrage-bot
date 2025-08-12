@@ -1,0 +1,17 @@
+{
+  "name": "dex-arbitrage-bot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.21.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  }
+}
