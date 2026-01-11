@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+## Description
+Experimental DEX arbitrage and flashloan project.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This repository contains a prototype for exploring decentralized exchange arbitrage mechanics and smart contract interactions.  
+Built as a research and learning project.
 
-Try running some of the following tasks:
+## Contents
+- Smart contracts for flashloan-based execution
+- Scripts for testing and local deployment
+- Configuration files for development environment
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## Tech Stack
+Solidity, Hardhat, JavaScript
+
+## Notes
+This project is for educational and experimental purposes only.
+Not intended for production or live trading.
